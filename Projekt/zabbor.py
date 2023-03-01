@@ -6,7 +6,7 @@ import random
 import winsound
 
 #Ścieżka
-os.chdir("I:\Kacper\IV semestr\Python\Projekt")
+#os.chdir("I:\Python\Projekt")
 
 #Ustawienie ekranu
 wn = turtle.Screen()
